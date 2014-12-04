@@ -1,0 +1,29 @@
+{
+  "name": "UIWebViewDetector",
+  "version": "0.0.1",
+  "authors": [
+    "Ændrew Rininsland <aendrew.rininsland@the-times.co.uk>"
+  ],
+  "description": "A simple script that adds a body class and a global variable when a UIWebView container views a page.",
+  "main": "uiwebviewdetect.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "uiwebview",
+    "safari",
+    "iOS",
+    "UIKit",
+    "browser",
+    "detection"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.thetimes.co.uk",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
